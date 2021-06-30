@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url(./pattern.webp);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+ }
+ .brushesh2{
+     background-color: mediumspringgreen;
+ }
+ .framesh2{
+     background-color: coral;
+ }
+ .painth2{
+     background-color: skyblue;
+ }
+ span{
+     font-weight: bold;
+     color: blue;
+ }
+ img{
+     text-align: left;
+ }
+ figure{
+     text-align: left;
+ }
+ section{
+     text-align: left;
+ }
